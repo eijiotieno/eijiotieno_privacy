@@ -3,7 +3,7 @@ Privacy Policy
 
 ### Introduction  
 Our privacy policy will help you understand what information we collect at Solar System App, how Solar System App uses it, and what choices you have.
-*[Company/AppName]* built the *[AppName]* app as a free app. This SERVICE is provided by *[Company/AppName]* at no cost and is intended for use as is.
+Eiji Otieno built the Solar System app as a free app. This SERVICE is provided by Eiji Otien0 at no cost and is intended for use as is.
 If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
@@ -16,7 +16,7 @@ Cookies are files with small amount of data that is commonly used an anonymous u
 
 This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-### Location Information  *[xxx@email.com]*
+### Location Information  eijiwatanabeotieno@gmail.com
 Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
 ### Device Information  
